@@ -13,6 +13,8 @@ AND = {
 
 df = pd.DataFrame(AND)
 
+
+
 print(df) 
 
 
@@ -28,5 +30,7 @@ _ = model.total_loss()
 
 save_model(model,filename="and.model") 
 save_plot(df,'and.png',model)
+
+
 
 
