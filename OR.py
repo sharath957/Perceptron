@@ -1,6 +1,6 @@
 """
 Author: sharath
-email: sharath957@gmail.com
+email: python
 """
 from utils.model import Perceptron
 from utils.all_utils import prepare_data,save_plot,save_model
