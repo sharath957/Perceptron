@@ -9,3 +9,11 @@ cp Research\ notebook/Demo.ipynb .
 
 ## Add image
 ![GitHub Logo](plots/or.png)
+
+## Data Set
+x1 | x2 | y
+-|-|-|
+0|0|0|
+0|1|0
+1|0|0
+1|1|1
