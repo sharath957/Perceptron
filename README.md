@@ -8,4 +8,4 @@ git add . && git commit -m "first commit" && git push origin main
 cp Research\ notebook/Demo.ipynb .
 
 ## Add image##
-![sample Image](Perceptron\plots\or.png) 
+![GitHub Logo](plots/or.png)
