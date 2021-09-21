@@ -2,9 +2,9 @@
 
 ## commands used
 git add . && git commit -m "first commit" && git push origin main 
-# used to push the commits to git repository ##  
+## Used to push the commits to git repository  
 
-# to move the file from other directories to working directory 
+## To move the file from other directories to working directory 
 cp Research\ notebook/Demo.ipynb .
 
 ## Add image
@@ -17,3 +17,7 @@ x1 | x2 | y
 0|1|0
 1|0|0
 1|1|1
+
+![GitHub Logo](https://images.unsplash.com/photo-1615789591457-74a63395c990?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9tZXN0aWMlMjBjYXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80)  
+
+<img src ='https://images.unsplash.com/photo-1615789591457-74a63395c990?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9tZXN0aWMlMjBjYXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80' width='400' height='500'>
